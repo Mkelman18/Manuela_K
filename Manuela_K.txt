@@ -22,5 +22,32 @@ git remote add origin https://github.com/Mkelman18/Manuela_K.git
 
 git branch -M main
 
+git status
+
+git add .
+
+git status
+
+git commit -m "Primeiro commit"
+
+git log
+
+git branch
+
+git branch Manu
+
+git branch
+
+git checkout Manu
+
+git branch
+
+.......
+
+
+
+
+
+
 
 
