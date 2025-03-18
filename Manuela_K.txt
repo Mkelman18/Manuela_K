@@ -1,26 +1,14 @@
-comandos para fazer commit 
+cd Documents
 
-cd Documents/
+mkdir Manuela_K   
 
-mkdir Manuela_K
+cd Manuela_K  		 
 
-cd Manuela_K
+ls
 
 git init
 
 ls -a
-
-git config --list
-
-git config user.email "manuela.denega@escola.pr.gov.br"
-
-git config user.name "Mkelman18"
-
-git config --list
-
-git remote add origin https://github.com/Mkelman18/Manuela_K.git
-
-git branch -M main
 
 git status
 
@@ -28,21 +16,27 @@ git add .
 
 git status
 
-git commit -m "Primeiro commit"
+git config user.name "Mkelman18"
 
-git log
+git config user.email "manuela.denega@escola.pr.gov.br"
 
-git branch
+git commit -a -m "Primeiro commit"
+
+git config --list
+
+git remote add origin https://github.com/Mkelman18/Manuela_K.git
+
+git branch -M main
+
+git push -u origin main
+
+
+		                   Branchs
 
 git branch Manu
-
-git branch
-
+git branch 
 git checkout Manu
-
-git branch
-
-.......adfadfad
+git merge 
 
 
 
